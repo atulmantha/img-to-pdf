@@ -1,1 +1,1 @@
-# img-to-pds
+# img-to-pdf
